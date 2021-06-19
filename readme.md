@@ -26,4 +26,7 @@
         
         wkspace
             init.txt
-        
+
+注意`autoFishing.exe`/`WinSpy64.exe`文件
+1. `autoFishing.exe`。钓鱼主程序
+2. `WinSpy64.exe`。查询坐标程序
